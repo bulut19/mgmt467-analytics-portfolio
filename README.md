@@ -15,4 +15,4 @@ This repo contains my work for Purdue's MGMT 467 (AI-Assisted Big Data in the Cl
 - Notebooks include cost dry-run checks and validation notes as required.
 
 ## Practice Notebooks
-# Week 2.1
+### Week 2.1
