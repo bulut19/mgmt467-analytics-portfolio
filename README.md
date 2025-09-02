@@ -16,4 +16,4 @@ This repo contains my work for Purdue's MGMT 467 (AI-Assisted Big Data in the Cl
 
 ## Practice Notebooks
 ### Week 2.1
-- [Prompt Practice Notebook](notebooks/week2-1-prompt-practice.ipynb)
+- [Prompt Practice Notebook](Week2_1_Prompt_Practice.ipynb)
