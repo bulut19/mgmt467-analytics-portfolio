@@ -3,7 +3,6 @@ This repo contains my work for Purdue's MGMT 467 (AI-Assisted Big Data in the Cl
 
 ## Structure
 - `Labs/` — Weekly lab notebooks
-- `Assignments/` — Course assignments
 - `Final_Project/` — Final project notebook and assets
   
 ## Environment
@@ -13,7 +12,3 @@ This repo contains my work for Purdue's MGMT 467 (AI-Assisted Big Data in the Cl
 ## Notes
 - Data resides in BigQuery/Drive (no large raw files committed).
 - Notebooks include cost dry-run checks and validation notes as required.
-
-## Practice Notebooks
-### Week 2.1
-- [Prompt Practice Notebook](Week2_1_Prompt_Practice.ipynb)
